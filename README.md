@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mihaitzaa1337
-- 👀 I’m interested de pula mare
-- 🌱 I’m currently learning cum sa o fut pe mamaie
-- 💞️ I’m looking to collaborate on coca cola, hypixel.
-- 📫 How to reach me sex?
+- 👀 I’m interested 
+- 🌱 I’m currently learning html
+- 💞️ I’m looking to collaborate hypixel.
 
 <!---
 Mihaitzaa1337/Mihaitzaa1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
