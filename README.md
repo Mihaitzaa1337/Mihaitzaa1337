@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mihaitzaa1337
 - 👀 I’m interested 
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate hypixel.
+- 💞️ I’m looking to collaborate with hypixel.
 
 <!---
 Mihaitzaa1337/Mihaitzaa1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
